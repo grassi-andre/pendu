@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+
+.admin{
+    position: absolute;
+    left: 20px;
+    font-size: 1.0rem;
+}
+
+#Newmot{
+    padding: 10px 18px;
+    text-align: center;
+}
+
+.motspendu{
+    margin-left: 15px;
+    font-size: 1.3rem;
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
